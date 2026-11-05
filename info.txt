@@ -1,2 +1,3 @@
 crear archivo de texto informacion
 texto agregado
+cambios desde rama2
